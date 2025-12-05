@@ -56,7 +56,8 @@ ecommerce-analytics/
 ![Customer Segmentation](dashboards/screenshots/repeat_vs_onetime.png)
 
 ### Revenue by Region
-![Customer Segmentation](dashboards/screenshots/revenue by Region.png)
+![Customer Segmentation](dashboards/screenshots/Revenue_by_Region.png)
+
 
 ### Order Completion Rate
 ![Order Status](dashboards/screenshots/order_status.png)
